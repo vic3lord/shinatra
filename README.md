@@ -1,9 +1,9 @@
 
-Shinatra - A web server in five lines of bash
+Shinatra - A TLS web server in five lines of bash (OpenBSD's netcat version)
 
 ## Usage:
 
-./shinatra.sh [port] [response]
+./shinatra.sh [port] [response] [private.pem] [certificate.pem]
 
 ## Frequently Asked Questions
 
